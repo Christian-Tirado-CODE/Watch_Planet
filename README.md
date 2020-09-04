@@ -1,4 +1,4 @@
-# Watch_Planet
+# Watch Planet
 
 E-commerce that sells high quality watches. This is a full-stack application made for a database design college course. The technologies used were Bootstrap, PHP, JavaScript and AJAX. 
 
